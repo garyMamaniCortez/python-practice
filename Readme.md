@@ -10,3 +10,8 @@ https://www.udemy.com/course/python-de-cero-hasta-reconocimiento-facial
 + diferent ways to print data
 + relacional operators
 all of this is apply on exercise 1,2,3,4
++ condicionals
+condicionals are applyed in exercise if1,if2,if3,if4
+
+## skills gains by myself
+* Strings
